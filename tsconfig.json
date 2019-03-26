@@ -1,0 +1,23 @@
+{
+
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es5",
+        "lib": ["es6", "dom"],
+        "types": ["reflect-metadata"],        
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+
+        "outDir": "dist",
+        "rootDir": "src",
+        "sourceMap": true,
+    },
+    "include": [
+      "src/**/*.ts"
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "inversify-class-example",
+  "version": "1.0.0",
+  "description": "inversify class example",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "inversify",
+    "class",
+    "dependancy",
+    "injection"
+  ],
+  "author": "tim@swotin.cn",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-typescript": "^5.0.1",
+    "path": "^0.12.7",
+    "typescript": "^3.3.4000"
+  },
+  "dependencies": {
+    "inversify": "^5.0.1",
+    "reflect-metadata": "^0.1.13"
+  }
+}
