@@ -2,6 +2,7 @@
 After git clone, Run following commands:
 
 $ npm install
+
 $ gulp
 
 $ node dist/main.js
