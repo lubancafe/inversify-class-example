@@ -1,5 +1,5 @@
 # inversify-class-example
-Run following commands:
+After git clone, Run following commands:
 
 $ npm install
 $ gulp
